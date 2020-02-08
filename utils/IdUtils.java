@@ -12,7 +12,7 @@ import java.util.UUID;
 /**
  * @author zhan
  * @date 2020/01/13 15:12:44
- * @description 描述信息
+ * @description 雪花算法生成id
  */
 
 
